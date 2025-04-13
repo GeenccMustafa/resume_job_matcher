@@ -1,5 +1,7 @@
 # Resume Job Matcher 🤖📄
 
+🎥 **[Watch Demo on YouTube](https://www.youtube.com/watch?v=OicAeBOEFdk)**
+
 An intelligent tool built to analyze and match your resume with job descriptions from uploaded documents or LinkedIn job URLs, powered by Google Gemini API, OCR, Selenium, Streamlit, and Prefect for effective workflow orchestration and monitoring.
 
 ## 🔧 Features
